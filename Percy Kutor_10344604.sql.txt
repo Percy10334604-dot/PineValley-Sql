@@ -1,7 +1,7 @@
 -- ============================================================
 --  Pine Valley Furniture Company (PVFC) Database
---  Student : Joseph Mensah
---  Index No: 10318690
+--  Student : Percy Kutor
+--  Index No: 10334604
 --  Course  : SQL Practical Exercise – Week 8 Assignment 2
 --  Date    : 15 May 2026
 --  Tool    : MySQL Workbench
