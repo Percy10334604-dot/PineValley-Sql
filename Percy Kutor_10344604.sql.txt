@@ -99,12 +99,12 @@ CREATE INDEX idx_product_price
 
 -- --------------------------------------------------------
 -- 2.1a  Insert at least 5 records into Customer_T
---        (CustomerID range 1100-1105; includes 'Joseph')
+--        (CustomerID range 1100-1105; includes 'Percy')
 -- --------------------------------------------------------
 INSERT INTO Customer_T
     (CustomerID, CustomerName, CustomerAddress, CustomerCity, CustomerState, CustomerPostalCode, CustomerEmail)
 VALUES
-    (1100, 'Joseph Mensah',     '12 Liberation Road',    'Accra',     'Greater Accra', 'GA-100-001', 'joseph.mensah@email.com'),
+    (1100, 'Percy Kutor',     '12 Liberation Road',    'Accra',     'Greater Accra', 'GA-100-001', 'kutorpercy3@gmail.com'),
     (1101, 'Ama Asante',        '45 Kejetia Market St',  'Kumasi',    'Ashanti',       'AS-100-002', 'ama.asante@email.com'),
     (1102, 'Kweku Boateng',     '8 Oxford Street',       'Accra',     'Greater Accra', 'GA-100-003', 'kweku.boateng@email.com'),
     (1103, 'Abena Osei',        '23 Harbour Road',       'Takoradi',  'Western',       'WR-100-004', 'abena.osei@email.com'),
